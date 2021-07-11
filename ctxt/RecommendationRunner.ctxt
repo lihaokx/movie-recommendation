@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RecommendationRunner
+comment1.params=
+comment1.target=RecommendationRunner()
+comment2.params=
+comment2.target=java.util.ArrayList\ getItemsToRate()
+comment3.params=webRaterID
+comment3.target=void\ printRecommendationsFor(java.lang.String)
+numComments=4
